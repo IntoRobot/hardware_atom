@@ -1,6 +1,6 @@
 # IntoRobot Atom
 
-intoRobot Atom是一款小尺寸、双CPU设计、软硬件开源、代码完美兼容Arduino和STM32核心控制板.
+IntoRobot Atom是一款小尺寸、双CPU设计、软硬件开源、代码完美兼容Arduino和STM32核心控制板.
 
 采取STM32F103RBT6(主频：72MHz)和MT7620N(主频：580MHz)双CPU设计，不仅提供了丰富的接口（46个数字或模拟口，UARTs，SPI，I2C，PWM，CAN，USB，网口），还搭载了强大的OpenWrt系统（开源Linux系统，具备丰富的开源应用）。
 
