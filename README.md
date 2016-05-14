@@ -27,7 +27,6 @@ Atom、IntoRobot App与IntoRobot云端服务形成一套完整的网络控制系
 - **RST-N: ** MTK7620N复位引脚。
 
 为了更好的理解Atom硬件功能。请访问：[Atom 硬件详解](http://docs.intorobot.com/zh/hardware/)
-Please review the pinmap spreadsheet to better understand the alternate functions of the GPIO pins.
 
 更多功能，请访问：[www.intorobot.com](http://www.intorobot.com)
 
