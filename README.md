@@ -26,7 +26,7 @@ Atom、IntoRobot App与IntoRobot云端服务形成一套完整的网络控制系
 - **RST-S:** STM32复位引脚。
 - **RST-N:** MTK7620N复位引脚。
 
-Atom硬件详细功能。请访问：[Atom 硬件详解](http://docs.intorobot.com/zh/hardware/)
+Atom硬件详细功能。请访问：[Atom 硬件详解](http://docs.intorobot.com/hardware/atom/hardware)
 
 更多功能，请访问：[www.intorobot.com](http://www.intorobot.com)
 
